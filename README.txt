@@ -1,9 +1,7 @@
-DAILY MEDS — PHONE INSTALL
+DAILY MEDS — PHONE APP
 
-This folder contains a small installable web app. To install it on a phone, it must first be published at an HTTPS web address. Opening index.html directly from a file does not enable the install/offline features.
+Open the published page in Safari on iPhone and choose Share → Add to Home Screen. Your dose history and medication list are stored in this browser on this device and are not uploaded to this public repository or shared with other users.
 
-Once published:
-- iPhone: open the site in Safari, tap Share, then Add to Home Screen.
-- Android: open the site in Chrome and choose Install app or Add to Home screen.
+The interaction section lets you copy the active ingredients and open the Korea Pharmaceutical Information Center drug–drug interaction checker. Ingredients are not sent automatically; you choose what to paste into that separate service. The app does not provide an all-clear or medical advice.
 
-Medication names can be looked up from the U.S. National Library of Medicine RxNorm service while online. Personal entries are saved only in that browser on that device; they do not sync between devices. This app is a personal log, not a dosing or medical advice tool.
+Concerta effect curves and other personal effect ratings are not included in this update; this version focuses on dose history and sourced interaction lookup.
